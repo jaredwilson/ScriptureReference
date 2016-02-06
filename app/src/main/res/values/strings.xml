@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scripture Reference</string>
+    <string name="button">Surprise Me</string>
+    <string name="chapterHint">chapter</string>
+    <string name="bookHint">book</string>
+    <string name="verseHint">verse</string>
+    <string name="verse">Verse:</string>
+    <string name="chapter">Chapter:</string>
+    <string name="book">Book :</string>
+    <string name="welcome">Welcome! Please enter in text for your favorite scripture!</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="title_activity_next_part">NextPart</string>
+</resources>
